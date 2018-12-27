@@ -8,6 +8,6 @@
 
 <script lang="ts">
 import Home from './Home';
-export { Home };
-export default Home;
+const result = { Home };
+export default result;
 </script>

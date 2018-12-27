@@ -67,8 +67,8 @@
 
 <script lang="ts">
 import HelloWorld from './HelloWorld';
-export { HelloWorld };
-export default HelloWorld;
+const result = { HelloWorld };
+export default result;
 </script>
 
 <style scoped lang="scss">
