@@ -66,7 +66,7 @@
 </template>
 
 <script lang="ts">
-import HelloWorld from './HelloWorld';
+import { HelloWorld } from './HelloWorld';
 const result = { HelloWorld };
 export default result;
 </script>
